@@ -4,8 +4,8 @@ import './signInPage.css';
 
 const SignInPage = () => {
   return (
-    <div className='signInPage'> 
-    <SignIn path="/sign-in" signInUrl="sign-in" />
+    <div className='SignInPage'> 
+    <SignIn path="/Sign-in" signInUrl="Sign-in" />
     </div>
 
   )
