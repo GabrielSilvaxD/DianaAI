@@ -6,8 +6,8 @@ import Homepage from "./routes/homepage/Homepage";
 import ChatPage from "./routes/chatPage/ChatPage";
 import RootLayout from "./layouts/rootLayout/RootLayout";
 import DashboardLayout from "./layouts/dashboardLayout/DashboardLayout";
-import SignUpPage from "./routes/signUpPage/signUpPage";
-import SignInPage from "./routes/signInPage/signInPage";
+import SignUpPage from "./routes/signUpPage/signUpPage.jsx";
+import SignInPage from "./routes/signInPage/signInPage.jsx";
 import DashboardPage from './routes/dashboardPage/DashboardPage';
 
 
