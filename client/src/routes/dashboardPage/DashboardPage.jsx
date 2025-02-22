@@ -1,5 +1,5 @@
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-import "./dashboardLayout.css";
+import "./dashboardPage.css";
 import { useNavigate } from "react-router-dom";
 
 const DashboardPage = () => {
